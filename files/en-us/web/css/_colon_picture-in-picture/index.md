@@ -43,7 +43,7 @@ The page's HTML looks like this:
 <video id="pip-video"></video>
 ```
 
-The {{HTMLElement("video")}} with the ID `"pip-video"` will change between having a red box shadow or not, depending on whether or not it is displayed in the picture-in-picture floating window.
+The {{HTMLElement("video")}} with the ID `pip-video` will change between having a red box shadow or not, depending on whether or not it is displayed in the picture-in-picture floating window.
 
 ### CSS
 
